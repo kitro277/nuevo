@@ -5,7 +5,7 @@ public class CCuenta {
     private String cuenta;
     private double saldo;
     private double tipoInterés;
-
+    private double prueba2;
     public CCuenta()
     {
     }
