@@ -7,6 +7,7 @@ public class CCuenta {
     private double tipoInterés;
     private double prueba2;
     public CCuenta()
+    private double cuenta6;
     {
     }
 
